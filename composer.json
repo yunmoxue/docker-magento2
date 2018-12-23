@@ -1,0 +1,10 @@
+{
+    "name": "seven/docker-magento2",
+    "authors": [
+        {
+            "name": "seven",
+            "email": "415107564@qq.com"
+        }
+    ],
+    "require": {}
+}
